@@ -1,0 +1,23 @@
+@layout Query_Params
+@page "/query-params/path-params-3/{path2:double?}"
+
+
+<div class="row-layout path-params-3-container">
+    <h5 class="h5">
+        PATH PARAMS 3
+    </h5>
+</div>
+
+@code {
+
+    [CascadingParameter]
+    private RouteData RouteData { get; set; }
+    [Parameter]
+    public double Path2 { get; set; }
+
+    protected override void OnParametersSet()
+    {
+        RouteData.RouteValues.TryGetValue("Path2", out var path2);
+        Path2 = path2 != null ? Convert.ToDouble(path2) : 500;
+    }
+}

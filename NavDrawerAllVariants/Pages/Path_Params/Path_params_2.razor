@@ -56,8 +56,8 @@
 
     protected void EnsureDefaultRoute()
     {
-        var defaultPath = NavigationManager.BaseUri + "path-params/path-params-2";
-        var currentRoute = NavigationManager.BaseUri + NavigationManager.ToBaseRelativePath(NavigationManager.Uri).Split('?')[0];
+        var defaultPath = "path-params/path-params-2";
+        var currentRoute = NavigationManager.ToBaseRelativePath(NavigationManager.Uri).Split('?')[0];
         if (!string.Equals(defaultPath, currentRoute, StringComparison.OrdinalIgnoreCase))
         {
             NavigationManager.NavigateTo(defaultPath, replace: true);

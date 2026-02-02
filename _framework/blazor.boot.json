@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "NavDrawerAllVariants",
   "resources": {
-    "hash": "sha256-kZ+RO4qA3zZZBKvjzBPosZSiomcDEXyEsNBt4vp3uFs=",
+    "hash": "sha256-STimc1P46ey4A3Ln3uY0zvFoP7FZOpIld1L9SI/a/Bk=",
     "fingerprinting": {
       "IgniteUI.Blazor.usxd7gnccf.wasm": "IgniteUI.Blazor.wasm",
       "Microsoft.AspNetCore.Components.koak7tqgr0.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -40,7 +40,7 @@
       "System.Threading.ggshvlobkn.wasm": "System.Threading.wasm",
       "System.Web.HttpUtility.513mxxev0n.wasm": "System.Web.HttpUtility.wasm",
       "System.Private.CoreLib.z6741qhqpe.wasm": "System.Private.CoreLib.wasm",
-      "NavDrawerAllVariants.khcvtk88e7.wasm": "NavDrawerAllVariants.wasm",
+      "NavDrawerAllVariants.a7piy353ek.wasm": "NavDrawerAllVariants.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.50iqa8w3ys.js": "dotnet.native.js",
       "dotnet.native.pk43x8e436.wasm": "dotnet.native.wasm",
@@ -103,7 +103,7 @@
       "System.Text.RegularExpressions.ipjhgf5xl0.wasm": "sha256-+kXDMw6297ilgQG21AvqQ8zLZq3Es5JYtKQEU/LPiSQ=",
       "System.Threading.ggshvlobkn.wasm": "sha256-UN0syzx2f2VGomz6QWRksj9tzG4z+J8nReuwL8S772c=",
       "System.Web.HttpUtility.513mxxev0n.wasm": "sha256-2T3F3wFyrYJQ1LvjQG0hMX4FQeerxw5OB+oj/cwtHbM=",
-      "NavDrawerAllVariants.khcvtk88e7.wasm": "sha256-+N0G+3LQGS4RpCQXELS1M6ja1z3SRaUEh3z3VjGmoZM="
+      "NavDrawerAllVariants.a7piy353ek.wasm": "sha256-Fq5YG3V2B39Npp6MjzhCosaPjGPMv1Usm3IZM2JUWq4="
     },
     "libraryInitializers": {
       "_content/IgniteUI.Blazor/IgniteUI.Blazor.Trial.5ypv7keehr.lib.module.js": "sha256-49O5+6qaQPG8IVspF7YXxch03yjzr2EDiTFFxnxa4mc="

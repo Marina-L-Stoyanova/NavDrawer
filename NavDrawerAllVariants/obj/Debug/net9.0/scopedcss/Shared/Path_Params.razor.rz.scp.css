@@ -1,0 +1,20 @@
+.row-layout[path_params-scope] {
+    display: flex;
+}
+.path-params-container[path_params-scope] {
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: flex-start;
+    height: 100%;
+}
+.h5[path_params-scope] {
+    height: max-content;
+    min-width: min-content;
+}
+.view-container[path_params-scope] {
+    overflow: auto;
+    position: relative;
+    min-width: 0;
+    min-height: 0;
+    flex-grow: 1;
+}

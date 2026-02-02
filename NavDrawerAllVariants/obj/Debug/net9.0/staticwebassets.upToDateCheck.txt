@@ -1,0 +1,13 @@
+wwwroot\css\app.css
+wwwroot\css\base-view-styles.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.ico
+wwwroot\icon-192.png
+wwwroot\index.html
+C:\work\git\NavDrawer\NavDrawerAllVariants\wwwroot\css\app.css
+C:\work\git\NavDrawer\NavDrawerAllVariants\wwwroot\css\base-view-styles.css
+C:\work\git\NavDrawer\NavDrawerAllVariants\wwwroot\css\bootstrap\bootstrap.min.css
+C:\work\git\NavDrawer\NavDrawerAllVariants\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\work\git\NavDrawer\NavDrawerAllVariants\wwwroot\favicon.ico
+C:\work\git\NavDrawer\NavDrawerAllVariants\wwwroot\index.html

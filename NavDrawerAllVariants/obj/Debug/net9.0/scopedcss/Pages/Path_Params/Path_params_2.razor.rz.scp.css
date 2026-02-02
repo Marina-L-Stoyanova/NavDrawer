@@ -1,0 +1,13 @@
+.row-layout[path_params_2-scope] {
+    display: flex;
+}
+.path-params-2-container[path_params_2-scope] {
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: flex-start;
+    height: 100%;
+}
+.h5[path_params_2-scope] {
+    height: max-content;
+    min-width: min-content;
+}

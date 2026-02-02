@@ -4,7 +4,7 @@
 
 <div class="row-layout root-router-container">
     <IgbNavDrawer Open=true Position="NavDrawerPosition.Relative" class="nav-drawer" root_router-scope>
-        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "/no-params")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"/no-params"))>
+        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "no-params")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"no-params"))>
             <span slot="icon">
                 <span class="material-icons icon">
                     account_circle
@@ -12,7 +12,7 @@
             </span>
             <div slot="content">NO PARAMS</div>
         </IgbNavDrawerItem>
-        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "/no-params/no-params-1")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"/no-params/no-params-1"))>
+        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "no-params/no-params-1")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"no-params/no-params-1"))>
             <span slot="icon">
                 <span class="material-icons icon">
                     account_circle
@@ -20,7 +20,7 @@
             </span>
             <div slot="content">NO PARAMS 1</div>
         </IgbNavDrawerItem>
-        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "/no-params/path-params-1")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"/no-params/path-params-1"))>
+        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "no-params/path-params-1")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"no-params/path-params-1"))>
             <span slot="icon">
                 <span class="material-icons icon">
                     account_circle
@@ -28,7 +28,7 @@
             </span>
             <div slot="content">PATH PARAMS 1</div>
         </IgbNavDrawerItem>
-        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "/no-params/query-param-1")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"/no-params/query-param-1"))>
+        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "no-params/query-param-1")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"no-params/query-param-1"))>
             <span slot="icon">
                 <span class="material-icons icon">
                     account_circle
@@ -36,7 +36,7 @@
             </span>
             <div slot="content">QUERY PARAMS 1</div>
         </IgbNavDrawerItem>
-        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "/path-params")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"/path-params?path=200"))>
+        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "path-params")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"path-params?path=200"))>
             <span slot="icon">
                 <span class="material-icons icon">
                     account_circle
@@ -44,7 +44,7 @@
             </span>
             <div slot="content">PATH PARAM</div>
         </IgbNavDrawerItem>
-        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "/path-params/no-params-2")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"/path-params/no-params-2?path=2001"))>
+        <IgbNavDrawerItem Active="@IsActive(NavigationManager.BaseUri + "path-params/no-params-2")" @onclick=@(() => NavigationManager.NavigateTo(NavigationManager.BaseUri + $"path-params/no-params-2?path=2001"))>
             <span slot="icon">
                 <span class="material-icons icon">
                     account_circle

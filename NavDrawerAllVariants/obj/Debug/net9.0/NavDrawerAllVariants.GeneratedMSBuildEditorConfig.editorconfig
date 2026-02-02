@@ -1,0 +1,101 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = NavDrawerAllVariants
+build_property.RootNamespace = NavDrawerAllVariants
+build_property.ProjectDir = C:\work\git\NavDrawer\NavDrawerAllVariants\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\work\git\NavDrawer\NavDrawerAllVariants
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/No_params/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm9fcGFyYW1zXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/Path_Params/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aF9QYXJhbXNcX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/Query_Params/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVlcnlfUGFyYW1zXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/No_navigation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm9fbmF2aWdhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = no_navigation-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/No_params/No_params_1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm9fcGFyYW1zXE5vX3BhcmFtc18xLnJhem9y
+build_metadata.AdditionalFiles.CssScope = no_params_1-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/No_params/Path_params_1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm9fcGFyYW1zXFBhdGhfcGFyYW1zXzEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = path_params_1-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/No_params/Query_param_1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm9fcGFyYW1zXFF1ZXJ5X3BhcmFtXzEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = query_param_1-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/Path_Params/No_params_2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aF9QYXJhbXNcTm9fcGFyYW1zXzIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = no_params_2-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/Path_Params/Path_params_2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aF9QYXJhbXNcUGF0aF9wYXJhbXNfMi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = path_params_2-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/Path_Params/Query_params_2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aF9QYXJhbXNcUXVlcnlfcGFyYW1zXzIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = query_params_2-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/Query_Params/No_params_3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVlcnlfUGFyYW1zXE5vX3BhcmFtc18zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = no_params_3-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/Query_Params/Path_params_3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVlcnlfUGFyYW1zXFBhdGhfcGFyYW1zXzMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = path_params_3-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Pages/Query_Params/Query_params_3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVlcnlfUGFyYW1zXFF1ZXJ5X3BhcmFtc18zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = query_params_3-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = root_router-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Shared/No_params.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5vX3BhcmFtcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = no_params-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Shared/Path_Params.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhdGhfUGFyYW1zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = path_params-scope
+
+[C:/work/git/NavDrawer/NavDrawerAllVariants/Shared/Query_Params.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFF1ZXJ5X1BhcmFtcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = query_params-scope

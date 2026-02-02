@@ -1,0 +1,13 @@
+.row-layout[query_params_3-scope] {
+    display: flex;
+}
+.query-params-3-container[query_params_3-scope] {
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: flex-start;
+    height: 100%;
+}
+.h5[query_params_3-scope] {
+    height: max-content;
+    min-width: min-content;
+}

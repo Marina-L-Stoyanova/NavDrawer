@@ -1,0 +1,20 @@
+.row-layout[no_navigation-scope] {
+    display: flex;
+}
+.no-navigation-container[no_navigation-scope] {
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: flex-start;
+    height: 100%;
+}
+.h5[no_navigation-scope] {
+    height: max-content;
+    min-width: min-content;
+}
+.view-container[no_navigation-scope] {
+    overflow: auto;
+    position: relative;
+    min-width: 0;
+    min-height: 0;
+    flex-grow: 1;
+}
